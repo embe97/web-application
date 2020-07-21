@@ -8,4 +8,4 @@ User manual (for Windows):
 
 3. Run xampp-control.exe from the ../xampp/ directory and press Start next to Apache and MySQL servers.
 
-4. Open your web browser and type "localhost/web-application" in the adress section.
+4. Open your web browser and type in "localhost/web-application" in the adress section.
