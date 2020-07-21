@@ -1,5 +1,5 @@
 # web-application
-Projekt zaliczeniowy przedmiotu Aplikacje Internetowe na 6 semestrze Automatyki i Robotyki.
+Projekt zaliczeniowy przedmiotu Aplikacje Internetowe na 6 semestrze Automatyki i Robotyki 2019.
 
 User manual (for Windows):
 1. Download and install XAMPP from page: https://www.apachefriends.org/pl/index.html
