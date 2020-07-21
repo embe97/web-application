@@ -82,7 +82,7 @@
 		</div>
 		
 		<div id="footer">
-			Wydział Informatyki Politechniki Poznańskiej - Automatyka i Robotyka  &copy Michał Barełkowski 132034.
+			Wydział Informatyki Politechniki Poznańskiej - Automatyka i Robotyka  &copy Michał Barełkowski.
 		</div>
 	</footer>
 	
